@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111B46,70:5426A8,100:00F5D4&height=180&section=header&text=JEFFSPACE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20WITH%20AI&descAlignY=60&descSize=15" />
 
 <a href="https://github.com/dev-rdj">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=INITIALIZING+JEFFSPACE...;INDEPENDENT+AI+BUILDER;IDEAS+INTO+REALITY;SYSTEM+ONLINE+%E2%9C%93" alt="Animated JeffSpace introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=INITIALIZING+JEFFSPACE...;INDEPENDENT+AI+BUILDER;IDEAS+INTO+REALITY;SYSTEM+ONLINE+%E2%9C%93" alt="Animated Dev-Rdj introduction" />
 </a>
 
 <br/>
@@ -68,7 +68,7 @@ My mission is to turn ambitious ideas into useful products through technology, t
 <div align="center">
 
 <a href="https://jeffspace.in"><img src="https://img.shields.io/badge/PORTFOLIO-jeffspace.in-00F5D4?style=for-the-badge&labelColor=050816" /></a>
-<a href="https://instagram.com/rdj.hu"><img src="https://img.shields.io/badge/INSTAGRAM-@rdj.hu-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816" /></a>
+<a href="https://instagram.com/10st.guy"><img src="https://img.shields.io/badge/INSTAGRAM-@rdj.hu-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816" /></a>
 <a href="mailto:bubba.ai.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-00F5D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" /></a>
 
 <br/><br/>
