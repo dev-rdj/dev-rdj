@@ -1,116 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0A192F,100:00F5D4&height=3" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111B46,70:5426A8,100:00F5D4&height=180&section=header&text=JEFFSPACE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20WITH%20AI&descAlignY=60&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=JEFFSPACE+%2F%2F+SYSTEM+ONLINE;INDEPENDENT+AI+BUILDER;BUILDING+TOOLS+THAT+MATTER" alt="JeffSpace animated introduction" />
+<a href="https://github.com/dev-rdj">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=INITIALIZING+JEFFSPACE...;INDEPENDENT+AI+BUILDER;IDEAS+INTO+REALITY;SYSTEM+ONLINE+%E2%9C%93" alt="Animated JeffSpace introduction" />
+</a>
 
-<h3>Independent Builder · AI & Product Engineering</h3>
+<br/>
 
-<p>
-Building practical AI tools and digital products with a focus on clean UI,
-simple experiences, and real-world usefulness.
-</p>
+<img src="https://img.shields.io/badge/IDENTITY-INDEPENDENT_BUILDER-00F5D4?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/FOCUS-AI_%26_WEB-8B5CF6?style=for-the-badge&labelColor=050816" />
 
-<a href="https://jeffspace.in"><img src="https://img.shields.io/badge/WEBSITE-jeffspace.in-00F5D4?style=for-the-badge&labelColor=050816" alt="Website" /></a>
-<a href="https://github.com/dev-rdj"><img src="https://img.shields.io/badge/GITHUB-dev--rdj-00F5D4?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="GitHub" /></a>
+<br/><br/>
+
+<a href="https://jeffspace.in"><img src="https://img.shields.io/badge/EXPLORE-WEBSITE-00F5D4?style=for-the-badge&labelColor=050816&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/dev-rdj"><img src="https://img.shields.io/badge/ACCESS-GITHUB-8B5CF6?style=for-the-badge&labelColor=050816&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 01 / ABOUT ME
+<div align="center">
 
-I'm an independent builder focused on creating practical AI tools.
+## ◈ THE DEVELOPER BEHIND THE SYSTEM ◈
 
-I design, build, and ship products like **JARVIS, Studify, Conceptly, and Socialify** — all under one ecosystem called **JeffSpace**.
+</div>
 
-I care about clean UI, simple experiences, and tools that actually get used.
+I'm an independent builder focused on creating **practical AI tools and digital products**.
 
-- Building AI-powered applications and digital products
-- Exploring modern web technologies, APIs, and automation
-- Designing intuitive, user-focused experiences
-- Turning ideas into working products, one release at a time
+I design, build, and ship products like **JARVIS, Studify, Conceptly, and Socialify** under one ecosystem: **JeffSpace**.
 
-## 02 / THE ECOSYSTEM
+My mission is to turn ambitious ideas into useful products through technology, thoughtful design, and continuous experimentation.
+
+```text
+> SYSTEM        : JEFFSPACE
+> ROLE          : INDEPENDENT BUILDER
+> PRIMARY FOCUS : AI + WEB APPLICATIONS
+> DESIGN STYLE  : MINIMAL / FUTURISTIC
+> DIRECTIVE     : BUILD THINGS THAT MATTER
+```
+
+## ◈ THE ECOSYSTEM
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ JARVIS
-A personal AI assistant project.
+<h3>01 / JARVIS</h3>
 
-**Focus:** AI integration · Assistant experiences
+An AI assistant project exploring conversational AI and intelligent interfaces.
+
+<img src="https://img.shields.io/badge/PROJECT-AI_ASSISTANT-00F5D4?style=flat-square&labelColor=050816" />
+
+<br/><br/>
+
+<a href="https://github.com/dev-rdj/Ai-me">ACCESS REPOSITORY ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Studify
-An education-focused product concept.
+<h3>02 / STUDIFY</h3>
 
-**Focus:** Learning · Student productivity
+An education-focused product in the JeffSpace ecosystem.
+
+<img src="https://img.shields.io/badge/PROJECT-EDUCATION-8B5CF6?style=flat-square&labelColor=050816" />
+
+<br/><br/>
+
+<sub>Building toward better learning experiences.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Conceptly
-A product in the JeffSpace ecosystem.
+<h3>03 / CONCEPTLY</h3>
 
-**Focus:** Ideas · Digital experiences
+A product concept within the JeffSpace ecosystem.
+
+<img src="https://img.shields.io/badge/PROJECT-DIGITAL_PRODUCT-00F5D4?style=flat-square&labelColor=050816" />
+
+<br/><br/>
+
+<sub>Turning ideas into digital experiences.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Socialify
-A product in the JeffSpace ecosystem.
+<h3>04 / SOCIALIFY</h3>
 
-**Focus:** Social experiences · Web products
+A social-focused product in the JeffSpace ecosystem.
+
+<img src="https://img.shields.io/badge/PROJECT-SOCIAL-8B5CF6?style=flat-square&labelColor=050816" />
+
+<br/><br/>
+
+<sub>Exploring connected digital experiences.</sub>
 
 </td>
 </tr>
 </table>
 
-> Explore the linked repositories for current features, demos, and implementation details.
-
-## 03 / TECH STACK
+## ◈ TECHNOLOGY MATRIX
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" alt="Linode" />
-<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-
-</div>
-
-## 04 / CONNECT
-
-<div align="center">
-
-<a href="https://instagram.com/rdj.hu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:bubba.ai.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
-## 05 / SUPPORT THE WORK
-
-If you enjoy what I'm building, you can support my work here:
-
-<div align="center">
-
-<a href="https://buymeacoffee.com/jeffrdj"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java,bash,git,github,vscode&theme=dark&perline=6" alt="Technology icons" />
 
 <br/><br/>
 
-<sub>BUILD. EXPERIMENT. SHIP. REPEAT.</sub>
+<img src="https://img.shields.io/badge/AI_INTEGRATION-EXPLORING-00F5D4?style=flat-square&labelColor=050816" />
+<img src="https://img.shields.io/badge/WEB_ENGINEERING-BUILDING-8B5CF6?style=flat-square&labelColor=050816" />
+<img src="https://img.shields.io/badge/AUTOMATION-LEARNING-00F5D4?style=flat-square&labelColor=050816" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:0A192F,100:050816&height=3" width="100%" />
+</div>
+
+## ◈ DEVELOPMENT PROTOCOL
+
+- **BUILD** — turn ideas into working products.
+- **DESIGN** — keep interfaces clean and intuitive.
+- **ITERATE** — test, learn, and improve.
+- **SHIP** — make useful things available to people.
+
+> "The future belongs to those who build it."
+
+## ◈ CONNECT TO THE SYSTEM
+
+<div align="center">
+
+<a href="https://jeffspace.in"><img src="https://img.shields.io/badge/PORTFOLIO-jeffspace.in-00F5D4?style=for-the-badge&labelColor=050816" /></a>
+<a href="https://instagram.com/rdj.hu"><img src="https://img.shields.io/badge/INSTAGRAM-@rdj.hu-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816" /></a>
+<a href="mailto:bubba.ai.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-00F5D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" /></a>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/jeffrdj"><img src="https://img.shields.io/badge/SUPPORT_THE_BUILD-BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=050816" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,45:5426A8,100:050816&height=100&section=footer" />
+
+<sub>JEFFSPACE © · BUILD. EXPERIMENT. SHIP. REPEAT.</sub>
 
 </div>
