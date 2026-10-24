@@ -40,67 +40,6 @@ My mission is to turn ambitious ideas into useful products through technology, t
 > DIRECTIVE     : BUILD THINGS THAT MATTER
 ```
 
-## ◈ THE ECOSYSTEM
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 / JARVIS</h3>
-
-An AI assistant project exploring conversational AI and intelligent interfaces.
-
-<img src="https://img.shields.io/badge/PROJECT-AI_ASSISTANT-00F5D4?style=flat-square&labelColor=050816" />
-
-<br/><br/>
-
-<a href="https://github.com/dev-rdj/Ai-me">ACCESS REPOSITORY ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 / STUDIFY</h3>
-
-An education-focused product in the JeffSpace ecosystem.
-
-<img src="https://img.shields.io/badge/PROJECT-EDUCATION-8B5CF6?style=flat-square&labelColor=050816" />
-
-<br/><br/>
-
-<sub>Building toward better learning experiences.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 / CONCEPTLY</h3>
-
-A product concept within the JeffSpace ecosystem.
-
-<img src="https://img.shields.io/badge/PROJECT-DIGITAL_PRODUCT-00F5D4?style=flat-square&labelColor=050816" />
-
-<br/><br/>
-
-<sub>Turning ideas into digital experiences.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04 / SOCIALIFY</h3>
-
-A social-focused product in the JeffSpace ecosystem.
-
-<img src="https://img.shields.io/badge/PROJECT-SOCIAL-8B5CF6?style=flat-square&labelColor=050816" />
-
-<br/><br/>
-
-<sub>Exploring connected digital experiences.</sub>
-
-</td>
-</tr>
-</table>
-
 ## ◈ TECHNOLOGY MATRIX
 
 <div align="center">
