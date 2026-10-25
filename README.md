@@ -1,113 +1,158 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:102A56,65:8B1824,100:D6A640&height=200&section=header&text=RDJ%20OS&fontSize=65&fontColor=FFFFFF&fontAlignY=36&desc=STARK%20EDITION%20%7C%20JARVIS%20%C3%97%20FRIDAY&descAlignY=60&descSize=16" alt="RDJ OS Stark Edition"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=INITIALIZING+RDJ+OPERATING+SYSTEM...;J.A.R.V.I.S.+INTERFACE+ONLINE;F.R.I.D.A.Y.+SYSTEMS+STANDBY;DEVELOPER+IDENTIFIED%3A+DEV-RDJ;ALL+SYSTEMS+OPERATIONAL." alt="RDJ OS boot sequence"/><br/><img src="https://img.shields.io/badge/SYSTEM-RDJ_OS-00D9FF?style=for-the-badge&labelColor=050816" alt="RDJ OS"/>
-<img src="https://img.shields.io/badge/INTERFACE-JARVIS-168BFF?style=for-the-badge&labelColor=050816" alt="JARVIS interface"/>
-<img src="https://img.shields.io/badge/DEFENSE-FRIDAY-BB263B?style=for-the-badge&labelColor=050816" alt="FRIDAY interface"/>
-<img src="https://img.shields.io/badge/CORE-ONLINE-D6A640?style=for-the-badge&labelColor=050816" alt="System online"/><br/><br/>
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                         RDJ OS                               ║
+║              Personal Operating System                       ║
+║             JARVIS Interface // Online                       ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
-<a href="https://github.com/dev-rdj">
-<img src="https://img.shields.io/badge/ACCESS-GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050816" alt="GitHub"/>
-</a>
-<a href="https://jeffspace.in">
-<img src="https://img.shields.io/badge/OPEN-JEFFSPACE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=050816" alt="JeffSpace"/>
-</a></div>---
+<div align="center">
 
-<div align="center">SYSTEM PROFILE
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:082C4C,100:00D9FF&height=200&section=header&text=RDJ%20OS&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=PERSONAL%20OPERATING%20SYSTEM%20%2F%2F%20J.A.R.V.I.S.%20INTERFACE&descAlignY=58&descSize=15" width="100%" alt="RDJ OS Header"/>
 
-DEVELOPER // BUILDER // PROBLEM SOLVER
+  <a href="https://github.com/dev-rdj">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=J.A.R.V.I.S.+SYSTEM+ONLINE...;WELCOME+BACK%2C+DEV-RDJ.;INITIALIZING+PERSONAL+OPERATING+SYSTEM...;TURNING+IDEAS+INTO+REALITY.;BUILD.+BREAK.+LEARN.+REPEAT." alt="RDJ OS Boot Sequence"/>
+  </a>
 
-</div>I'm Dev-RDJ, a developer and coder passionate about turning ideas into working software.
+  <br/><br/>
 
-I enjoy building digital products, exploring AI, engineering useful applications, and continuously improving my technical skills.
+  <a href="https://github.com/dev-rdj">
+    <img src="https://img.shields.io/badge/GitHub-DEV--RDJ-050816?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=050816&color=082C4C" alt="GitHub"/>
+  </a>
+  <a href="https://jeffspace.in">
+    <img src="https://img.shields.io/badge/Portfolio-JEFFSPACE-050816?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=050816&color=082C4C" alt="Portfolio"/>
+  </a>
+  <a href="mailto:bubba.ai.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=BB263B&labelColor=050816&color=082C4C" alt="Email"/>
+  </a>
 
-Inspired by Tony Stark's engineering mindset, I believe in experimenting, solving problems, and building things that push ideas forward.
+  <br/><br/>
 
-╭──────────────────────────────────────────────╮
-│              RDJ SYSTEM PROFILE              │
-├──────────────────────────────────────────────┤
-│ OPERATOR       : DEV-RDJ                     │
-│ ROLE           : DEVELOPER / CODER           │
-│ PRIMARY DOMAIN : SOFTWARE DEVELOPMENT        │
-│ INTERESTS      : AI / WEB / AUTOMATION       │
-│ WORKFLOW       : DESIGN > BUILD > IMPROVE    │
-│ CORE DIRECTIVE : TURN IDEAS INTO REALITY     │
-╰──────────────────────────────────────────────╯
+  <sub><b>SYSTEM IDENTITY:</b> <code>DEV-RDJ</code> &nbsp;•&nbsp; <b>MODE:</b> <code>BUILDING THE FUTURE</code> &nbsp;•&nbsp; <b>INTERFACE:</b> <code>JARVIS × FRIDAY</code> &nbsp;•&nbsp; <b>DIRECTIVE:</b> <code>TURN IDEAS INTO REALITY</code></sub>
 
-«"Sometimes you gotta run before you can walk." — Tony Stark, Iron Man»
+</div>
 
----
-
-<div align="center">J.A.R.V.I.S. // TECHNOLOGY CORE
-
-Technical systems and development tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java,bash,git,github,vscode&theme=dark&perline=6" alt="Programming languages and development tools"/></div>SYSTEM CAPABILITIES
-
-Module| Function
-SOFTWARE ENGINEERING| Building and improving applications
-WEB DEVELOPMENT| Creating digital experiences
-AI EXPLORATION| Experimenting with intelligent systems
-AUTOMATION| Streamlining development workflows
-
-Technology icons should reflect the tools you actually use or are actively learning.
+<br/>
 
 ---
 
-<div align="center">STARK INDUSTRIES // PROJECT ARMORY
+### ⚡ `01 // SYSTEM PROFILE`
 
-Selected projects and development work
+<pre>
+╔════════════════════════════════════════════════════════════════════════╗
+║                          USER IDENTIFICATION                           ║
+╠════════════════════════════════════════════════════════════════════════╣
+║  DESIGNATION  :  DEV-RDJ                                               ║
+║  ALIAS        :  RDJ                                                   ║
+║  ROLE         :  CREATOR / BUILDER                                     ║
+║  SYSTEM       :  RDJ OS                                                ║
+║  AI CORE      :  J.A.R.V.I.S. + F.R.I.D.A.Y.                           ║
+║  OBJECTIVE    :  BUILD. LEARN. INNOVATE.                               ║
+╚════════════════════════════════════════════════════════════════════════╝
+</pre>
 
-</div>Every developer needs an armory. This is where your software projects belong.
+> *"Sometimes you gotta run before you can walk."*
+> — **Tony Stark**, *Iron Man*
 
-FEATURED PROJECTS
+I'm building my own corner of technology—exploring ideas, creating projects, and learning by doing.
 
-Project| Description
-JARVIS| AI assistant project
-Studify| Student-focused project
-Conceptly| Concept and idea-focused project
-Socialify| Social-focused project
-
-Replace these descriptions with the actual purpose of each application and add repository links when ready. These names are presented as project placeholders, not verified repository links.
-
----
-
-<div align="center">F.R.I.D.A.Y. // SYSTEM TELEMETRY
-
-GitHub development statistics
-
-<a href="https://github.com/dev-rdj">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-rdj&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E6EDF3&icon_color=D6A640&ring_color=BB263B&include_all_commits=true" alt="Dev-RDJ GitHub statistics"/>
-</a><a href="https://github.com/dev-rdj">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rdj&layout=compact&hide_border=true&bg_color=050816&title_color=D6A640&text_color=E6EDF3" alt="Dev-RDJ most-used programming languages"/>
-</a><br/><br/>
-
-<img src="https://img.shields.io/badge/DEVELOPER_MODE-ACTIVE-00D9FF?style=flat-square&labelColor=050816" alt="Developer mode"/>
-<img src="https://img.shields.io/badge/BUILD_PROTOCOL-ENGAGED-D6A640?style=flat-square&labelColor=050816" alt="Build protocol"/></div>Statistics are retrieved from an external service and may occasionally be unavailable. Language distribution reflects repository contents, not necessarily your overall coding proficiency.
+My interests include software development, AI-powered experiences, web technologies, and turning ambitious concepts into useful products. I believe in experimenting, solving problems, and improving one build at a time.
 
 ---
 
-<div align="center">ARC REACTOR // CONTRIBUTION MATRIX
+### 🛠️ `02 // TECHNOLOGY MATRIX`
 
-Development activity across the GitHub network
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rdj&bg_color=050816&color=00D9FF&line=168BFF&point=D6A640&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/><br/><img src="https://raw.githubusercontent.com/dev-rdj/dev-rdj/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/></div>---
+| **CORE TECHNOLOGIES** | **DEVELOPMENT TOOLS** |
+| :---: | :---: |
+| <br/><img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,java,bash&theme=dark&perline=4" alt="Core Technologies"/><br/><br/> | <br/><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Development Tools"/><br/><br/> |
+| `HTML` • `CSS` • `JavaScript` • `TypeScript`<br/>`Python` • `C++` • `Java` • `Bash` | `Git` • `GitHub` • `VS Code` |
 
-<div align="center">COMMUNICATIONS // ESTABLISH CONNECTION
+</div>
 
-<a href="https://github.com/dev-rdj">
-<img src="https://img.shields.io/badge/GITHUB-DEV--RDJ-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050816" alt="GitHub profile"/>
-</a><a href="https://jeffspace.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-JEFFSPACE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=050816" alt="Portfolio"/>
-</a><a href="https://instagram.com/10st.guy">
-<img src="https://img.shields.io/badge/INSTAGRAM-10ST.GUY-BB263B?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=050816" alt="Instagram"/>
-</a><a href="mailto:bubba.ai.tech@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ESTABLISH_UPLINK-D6A640?style=for-the-badge&logo=gmail&logoColor=D6A640&labelColor=050816" alt="Email"/>
-</a><a href="https://buymeacoffee.com/jeffrdj">
-<img src="https://img.shields.io/badge/SUPPORT_THE_BUILD-BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000&labelColor=050816" alt="Support development"/>
-</a><br/><br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D6A640,35:BB263B,70:102A56,100:050816&height=120&section=footer" alt="RDJ OS footer"/>RDJ OS // SYSTEM OPERATOR: DEV-RDJ
+### 🧠 `03 // SYSTEM CAPABILITIES`
 
-"ENGINEER THE IMPOSSIBLE. BUILD THE FUTURE."
+| MODULE | FUNCTION | STATUS |
+| :--- | :--- | :---: |
+| **Web Development** | Building web experiences and interfaces | ![Active](https://img.shields.io/badge/STATUS-ACTIVE-00D9FF?style=flat-square&labelColor=050816) |
+| **Programming** | Exploring languages and problem-solving | ![Active](https://img.shields.io/badge/STATUS-ACTIVE-00D9FF?style=flat-square&labelColor=050816) |
+| **AI & Automation** | Experimenting with intelligent tools | ![Exploring](https://img.shields.io/badge/STATUS-EXPLORING-D6A640?style=flat-square&labelColor=050816) |
+| **Project Engineering** | Turning ideas into working projects | ![Active](https://img.shields.io/badge/STATUS-ACTIVE-00D9FF?style=flat-square&labelColor=050816) |
+| **Continuous Learning** | Improving through practice and experimentation | ![Always On](https://img.shields.io/badge/STATUS-ALWAYS_ON-BB263B?style=flat-square&labelColor=050816) |
 
-<sub>Inspired by the fictional interfaces of Iron Man. Independently developed profile design.</sub>
+---
+
+### 📂 `04 // PROJECT DATABASE`
+
+> *Projects are the experiments that keep the system evolving.*
+
+| PROJECT | DESCRIPTION | LINK |
+| :--- | :--- | :---: |
+| 🤖 **JARVIS** | An AI-inspired personal assistant concept | [![View](https://img.shields.io/badge/OPEN-PROJECT-00D9FF?style=flat-square&logo=github&labelColor=050816)](https://github.com/dev-rdj) |
+| 📚 **Studify** | A student-focused project concept | [![View](https://img.shields.io/badge/OPEN-PROJECT-00D9FF?style=flat-square&logo=github&labelColor=050816)](https://github.com/dev-rdj) |
+| 💡 **Conceptly** | A concept-driven creation project | [![View](https://img.shields.io/badge/OPEN-PROJECT-00D9FF?style=flat-square&logo=github&labelColor=050816)](https://github.com/dev-rdj) |
+| 🌐 **Socialify** | A social-focused project concept | [![View](https://img.shields.io/badge/OPEN-PROJECT-00D9FF?style=flat-square&logo=github&labelColor=050816)](https://github.com/dev-rdj) |
+
+---
+
+### 📊 `05 // GITHUB TELEMETRY`
+
+<div align="center">
+
+  <a href="https://github.com/dev-rdj">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-rdj&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=168BFF&text_color=C9D1D9&bg_color=050816" alt="GitHub Statistics"/>
+  </a>
+  <a href="https://github.com/dev-rdj">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rdj&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=050816" alt="Most Used Languages"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/dev-rdj">
+    <img src="https://streak-stats.demolab.com?user=dev-rdj&hide_border=true&ring=00D9FF&fire=BB263B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&background=050816" alt="GitHub Contribution Streak"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/dev-rdj">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rdj&bg_color=050816&color=00D9FF&line=168BFF&point=BB263B&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+  </a>
+
+</div>
+
+---
+
+### 📡 `06 // CONNECTION TERMINAL`
+
+<div align="center">
+
+  Have an idea, a project, or something interesting to build? Let's connect.
+
+  <br/><br/>
+
+  <a href="https://github.com/dev-rdj">
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-050816?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=050816&color=082C4C" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://jeffspace.in">
+    <img src="https://img.shields.io/badge/Portfolio-VISIT-050816?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=050816&color=082C4C" alt="Visit Portfolio"/>
+  </a>
+  <a href="https://instagram.com/10st.guy">
+    <img src="https://img.shields.io/badge/Instagram-CONNECT-050816?style=for-the-badge&logo=instagram&logoColor=BB263B&labelColor=050816&color=082C4C" alt="Instagram"/>
+  </a>
+  <a href="mailto:bubba.ai.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-SEND%20TRANSMISSION-050816?style=for-the-badge&logo=gmail&logoColor=D6A640&labelColor=050816&color=082C4C" alt="Send Email"/>
+  </a>
+  <a href="https://buymeacoffee.com/jeffrdj">
+    <img src="https://img.shields.io/badge/Support-BUY%20ME%20A%20COFFEE-050816?style=for-the-badge&logo=buymeacoffee&logoColor=D6A640&labelColor=050816&color=082C4C" alt="Buy Me a Coffee"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:082C4C,100:050816&height=120&section=footer" width="100%" alt="RDJ OS Footer"/>
+
+  <sub><code>RDJ OS // SYSTEM ONLINE // KEEP BUILDING</code></sub>
 
 </div>
